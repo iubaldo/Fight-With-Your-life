@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/weapon3bar.png-b29ac13d6ba69a383bf9e0d429289601.stex"
+path="res://.import/TX Tileset Stone Ground.png-30a681faad6be0cf447303d2f562cb71.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Weapons/weapon3bar.png"
-dest_files=[ "res://.import/weapon3bar.png-b29ac13d6ba69a383bf9e0d429289601.stex" ]
+source_file="res://Sprites/Tileset/TX Tileset Stone Ground.png"
+dest_files=[ "res://.import/TX Tileset Stone Ground.png-30a681faad6be0cf447303d2f562cb71.stex" ]
 
 [params]
 

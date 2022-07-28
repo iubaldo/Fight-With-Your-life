@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/weapon3bar.png-b29ac13d6ba69a383bf9e0d429289601.stex"
+path="res://.import/TX Tileset Grass.png-8a6f4195848b879e1a745e73927d677d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Weapons/weapon3bar.png"
-dest_files=[ "res://.import/weapon3bar.png-b29ac13d6ba69a383bf9e0d429289601.stex" ]
+source_file="res://Sprites/Tileset/TX Tileset Grass.png"
+dest_files=[ "res://.import/TX Tileset Grass.png-8a6f4195848b879e1a745e73927d677d.stex" ]
 
 [params]
 

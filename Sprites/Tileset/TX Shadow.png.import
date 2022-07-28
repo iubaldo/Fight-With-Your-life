@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/weapon3bar.png-b29ac13d6ba69a383bf9e0d429289601.stex"
+path="res://.import/TX Shadow.png-01dc6042ef1a7f6c9b6c04e68916b83b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Weapons/weapon3bar.png"
-dest_files=[ "res://.import/weapon3bar.png-b29ac13d6ba69a383bf9e0d429289601.stex" ]
+source_file="res://Sprites/Tileset/TX Shadow.png"
+dest_files=[ "res://.import/TX Shadow.png-01dc6042ef1a7f6c9b6c04e68916b83b.stex" ]
 
 [params]
 
